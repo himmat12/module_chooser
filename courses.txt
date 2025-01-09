@@ -1,0 +1,14 @@
+Computer Science, CTEC3701, Software Development: Methods & Standards, 30, true, Block 1
+Computer Science, CTEC3702, Big Data and Machine Learning, 30, true, Block 2
+Computer Science, CTEC3451, Development Project, 30, true, Block 3/4
+Computer Science, CTEC3704, Functional Programming, 30, false, Block 3/4
+Computer Science, CTEC3705, Advanced Web Development, 30, false, Block 3/4
+Computer Science, IMAT3711, Privacy and Data Protection, 30, false, Block 3/4
+Computer Science, IMAT3722, Fuzzy Logic and Inference Systems, 30, false, Block 3/4
+
+Software Engineering, CTEC3701, Software Development: Methods & Standards, 30, true, Block 1
+Software Engineering, CTEC3703, Mobile App Development and Big Data, 30, true, Block 2
+Software Engineering, CTEC3451, Development Project, 30, true, Block 3/4
+Software Engineering, CTEC3704, Functional Programming, 30, false, Block 3/4
+Software Engineering, CTEC3705, Advanced Web Development, 30, false, Block 3/4
+Software Engineering, CTEC3706, Embedded Systems and IoT, 30, false, Block 3/4
